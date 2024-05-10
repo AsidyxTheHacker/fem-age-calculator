@@ -69,7 +69,7 @@ export default function Modal() {
                 });
         } else {
             handleDate();
-        }
+        };
 
 
     };
