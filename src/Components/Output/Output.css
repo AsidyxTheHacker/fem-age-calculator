@@ -1,0 +1,22 @@
+@font-face {
+    font-family: Poppins-Bold-Italic;
+    src: url('../../assets/Poppins-ExtraBoldItalic.ttf');
+}
+
+.output-container {
+    font-size: 60px;
+    font-family: Poppins-Bold-Italic;
+    height: 65px;
+}
+
+.output-container p {
+    color: hsl(259, 100%, 65%);
+    margin: 0;
+}
+
+.output-container span {
+    color: black;
+    font-weight: 800;
+    letter-spacing: -1px;
+    margin-left: 5px;
+}

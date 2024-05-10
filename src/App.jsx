@@ -1,11 +1,12 @@
-import './App.css'
+import './App.css';
+import Modal from './Components/Modal/Modal';
 
 function App() {
 
   return (
     <>
       <div>
-        
+        <Modal />
       </div>
     </>
   );
